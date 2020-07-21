@@ -69,4 +69,8 @@ $(document).on('keypress', (e) => {
     }
 })
 
+$(document).on('keypress', 'input', (e) => {
+    e.stopPropagation()
+})
+
 
