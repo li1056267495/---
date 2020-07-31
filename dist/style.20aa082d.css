@@ -9,6 +9,9 @@
   margin: 0;
   padding: 0;
 }
+button {
+  outline: none;
+}
 ul,
 ol {
   list-style: none;
@@ -196,4 +199,4 @@ a {
 }
 
 
-/*# sourceMappingURL=style.e45b2629.css.map */
+/*# sourceMappingURL=style.20aa082d.css.map */
