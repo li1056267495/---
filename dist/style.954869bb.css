@@ -9,6 +9,9 @@
   margin: 0;
   padding: 0;
 }
+input {
+  outline: none;
+}
 button {
   outline: none;
 }
@@ -199,4 +202,4 @@ a {
 }
 
 
-/*# sourceMappingURL=style.20aa082d.css.map */
+/*# sourceMappingURL=style.954869bb.css.map */
